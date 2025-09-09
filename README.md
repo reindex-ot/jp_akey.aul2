@@ -4,9 +4,9 @@ AviUtl2の各メニュー・一部ボタン項目にアクセスキーを追加�
 AviUtl ExEdit2 beta10 までの項目に対応しています。
 
 ## ダウンロード・インストール
-https://github.com/Garech-mas/jp_akey.aul2/releases/latest
+https://raw.githubusercontent.com/Garech-mas/jp_akey.aul2/refs/heads/main/日本語(アクセスキー付き).aul2
 
-上記のリンクにアクセスした後、`日本語(アクセスキー付き).aul2` からダウンロードできます。
+上記のリンクを右クリックし、**名前を付けてリンク先を保存**から`日本語(アクセスキー付き).aul2` をダウンロードできます。
 
 AviUtl2を起動し、ダウンロードしたファイルをプレビュー画面にドラッグ＆ドロップすることで導入できます。
 
