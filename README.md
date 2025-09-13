@@ -1,7 +1,7 @@
 # AviUtl2 アクセスキー付き日本語リソース
 AviUtl2の各メニュー・一部ボタン項目にアクセスキーを追加する言語ファイル(`.aul2`)です。
 
-AviUtl ExEdit2 beta10 までの項目に対応しています。
+AviUtl ExEdit2 beta11 までの項目に対応しています。
 
 ## ダウンロード・インストール
 https://raw.githubusercontent.com/Garech-mas/jp_akey.aul2/refs/heads/main/日本語(アクセスキー付き).aul2
@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/Garech-mas/jp_akey.aul2/refs/heads/main/日本
 AviUtl2を起動し、ダウンロードしたファイルをプレビュー画面にドラッグ＆ドロップすることで導入できます。
 
 ## 注意点
-リリース時最新版（beta10）では、言語ファイルを変更すると**ショートカットキーの設定が失われます。**
+リリース時最新版（beta11）では、言語ファイルを変更すると**ショートカットキーの設定が失われます。**
 
 ショートカットキーの設定を変更している方は、導入後に再設定してください。
 
@@ -29,4 +29,6 @@ AviUtl2を起動し、ダウンロードしたファイルをプレビュー画�
 [AviUtl Japanese Resources with Access Keys](https://github.com/k-takata/aviutl-jp_resource3)
 
 ## 更新履歴
-`v0.10` 初版 beta10時点のリソースをベースに作成
+- `v0.10` 初版 beta10時点のリソースをベースに作成
+- `v0.11` beta11のメニュー項目に対応<br>
+「オブジェクトの出力切替」、「制御点を追加・削除」、「ファイルから選択」のメニュー項目にアクセスキー追加
